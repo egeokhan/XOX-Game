@@ -158,6 +158,48 @@ namespace XOX_Game
                     this.Close();
                 }
             }
+            //////////////////////////////////////////////////////////////////////////////////////////
+            if (button2.Text == "X" && button5.Text == "X" && button8.Text == "X")
+            {
+                end = true;
+                winner = "X";
+                if (end == true)
+                {
+                    MessageBox.Show($"{winner} win!");
+                    this.Close();
+                }
+            }
+            if (button2.Text == "O" && button5.Text == "O" && button8.Text == "O")
+            {
+                end = true;
+                winner = "O";
+                if (end == true)
+                {
+                    MessageBox.Show($"{winner} win!");
+                    this.Close();
+                }
+            }
+            ///////////////////////////////////////////////////////////////////////////////////////////
+            if (button3.Text == "X" && button6.Text == "X" && button9.Text == "X")
+            {
+                end = true;
+                winner = "X";
+                if (end == true)
+                {
+                    MessageBox.Show($"{winner} win!");
+                    this.Close();
+                }
+            }
+            if (button3.Text == "O" && button6.Text == "O" && button9.Text == "O")
+            {
+                end = true;
+                winner = "O";
+                if (end == true)
+                {
+                    MessageBox.Show($"{winner} win!");
+                    this.Close();
+                }
+            }
         }
 
         private void button2_Click(object sender, EventArgs e)
@@ -290,6 +332,48 @@ namespace XOX_Game
                 }
             }
             if (button3.Text == "O" && button5.Text == "O" && button7.Text == "O")
+            {
+                end = true;
+                winner = "O";
+                if (end == true)
+                {
+                    MessageBox.Show($"{winner} win!");
+                    this.Close();
+                }
+            }
+            //////////////////////////////////////////////////////////////////////////////////////////
+            if (button2.Text == "X" && button5.Text == "X" && button8.Text == "X")
+            {
+                end = true;
+                winner = "X";
+                if (end == true)
+                {
+                    MessageBox.Show($"{winner} win!");
+                    this.Close();
+                }
+            }
+            if (button2.Text == "O" && button5.Text == "O" && button8.Text == "O")
+            {
+                end = true;
+                winner = "O";
+                if (end == true)
+                {
+                    MessageBox.Show($"{winner} win!");
+                    this.Close();
+                }
+            }
+            ///////////////////////////////////////////////////////////////////////////////////////////
+            if (button3.Text == "X" && button6.Text == "X" && button9.Text == "X")
+            {
+                end = true;
+                winner = "X";
+                if (end == true)
+                {
+                    MessageBox.Show($"{winner} win!");
+                    this.Close();
+                }
+            }
+            if (button3.Text == "O" && button6.Text == "O" && button9.Text == "O")
             {
                 end = true;
                 winner = "O";
@@ -440,6 +524,48 @@ namespace XOX_Game
                     this.Close();
                 }
             }
+            //////////////////////////////////////////////////////////////////////////////////////////
+            if (button2.Text == "X" && button5.Text == "X" && button8.Text == "X")
+            {
+                end = true;
+                winner = "X";
+                if (end == true)
+                {
+                    MessageBox.Show($"{winner} win!");
+                    this.Close();
+                }
+            }
+            if (button2.Text == "O" && button5.Text == "O" && button8.Text == "O")
+            {
+                end = true;
+                winner = "O";
+                if (end == true)
+                {
+                    MessageBox.Show($"{winner} win!");
+                    this.Close();
+                }
+            }
+            ///////////////////////////////////////////////////////////////////////////////////////////
+            if (button3.Text == "X" && button6.Text == "X" && button9.Text == "X")
+            {
+                end = true;
+                winner = "X";
+                if (end == true)
+                {
+                    MessageBox.Show($"{winner} win!");
+                    this.Close();
+                }
+            }
+            if (button3.Text == "O" && button6.Text == "O" && button9.Text == "O")
+            {
+                end = true;
+                winner = "O";
+                if (end == true)
+                {
+                    MessageBox.Show($"{winner} win!");
+                    this.Close();
+                }
+            }
         }
 
         private void button4_Click(object sender, EventArgs e)
@@ -572,6 +698,48 @@ namespace XOX_Game
                 }
             }
             if (button3.Text == "O" && button5.Text == "O" && button7.Text == "O")
+            {
+                end = true;
+                winner = "O";
+                if (end == true)
+                {
+                    MessageBox.Show($"{winner} win!");
+                    this.Close();
+                }
+            }
+            //////////////////////////////////////////////////////////////////////////////////////////
+            if (button2.Text == "X" && button5.Text == "X" && button8.Text == "X")
+            {
+                end = true;
+                winner = "X";
+                if (end == true)
+                {
+                    MessageBox.Show($"{winner} win!");
+                    this.Close();
+                }
+            }
+            if (button2.Text == "O" && button5.Text == "O" && button8.Text == "O")
+            {
+                end = true;
+                winner = "O";
+                if (end == true)
+                {
+                    MessageBox.Show($"{winner} win!");
+                    this.Close();
+                }
+            }
+            ///////////////////////////////////////////////////////////////////////////////////////////
+            if (button3.Text == "X" && button6.Text == "X" && button9.Text == "X")
+            {
+                end = true;
+                winner = "X";
+                if (end == true)
+                {
+                    MessageBox.Show($"{winner} win!");
+                    this.Close();
+                }
+            }
+            if (button3.Text == "O" && button6.Text == "O" && button9.Text == "O")
             {
                 end = true;
                 winner = "O";
@@ -722,6 +890,48 @@ namespace XOX_Game
                     this.Close();
                 }
             }
+            //////////////////////////////////////////////////////////////////////////////////////////
+            if (button2.Text == "X" && button5.Text == "X" && button8.Text == "X")
+            {
+                end = true;
+                winner = "X";
+                if (end == true)
+                {
+                    MessageBox.Show($"{winner} win!");
+                    this.Close();
+                }
+            }
+            if (button2.Text == "O" && button5.Text == "O" && button8.Text == "O")
+            {
+                end = true;
+                winner = "O";
+                if (end == true)
+                {
+                    MessageBox.Show($"{winner} win!");
+                    this.Close();
+                }
+            }
+            ///////////////////////////////////////////////////////////////////////////////////////////
+            if (button3.Text == "X" && button6.Text == "X" && button9.Text == "X")
+            {
+                end = true;
+                winner = "X";
+                if (end == true)
+                {
+                    MessageBox.Show($"{winner} win!");
+                    this.Close();
+                }
+            }
+            if (button3.Text == "O" && button6.Text == "O" && button9.Text == "O")
+            {
+                end = true;
+                winner = "O";
+                if (end == true)
+                {
+                    MessageBox.Show($"{winner} win!");
+                    this.Close();
+                }
+            }
         }
 
         private void button6_Click(object sender, EventArgs e)
@@ -863,6 +1073,48 @@ namespace XOX_Game
                     this.Close();
                 }
             }
+            //////////////////////////////////////////////////////////////////////////////////////////
+            if (button2.Text == "X" && button5.Text == "X" && button8.Text == "X")
+            {
+                end = true;
+                winner = "X";
+                if (end == true)
+                {
+                    MessageBox.Show($"{winner} win!");
+                    this.Close();
+                }
+            }
+            if (button2.Text == "O" && button5.Text == "O" && button8.Text == "O")
+            {
+                end = true;
+                winner = "O";
+                if (end == true)
+                {
+                    MessageBox.Show($"{winner} win!");
+                    this.Close();
+                }
+            }
+            ///////////////////////////////////////////////////////////////////////////////////////////
+            if (button3.Text == "X" && button6.Text == "X" && button9.Text == "X")
+            {
+                end = true;
+                winner = "X";
+                if (end == true)
+                {
+                    MessageBox.Show($"{winner} win!");
+                    this.Close();
+                }
+            }
+            if (button3.Text == "O" && button6.Text == "O" && button9.Text == "O")
+            {
+                end = true;
+                winner = "O";
+                if (end == true)
+                {
+                    MessageBox.Show($"{winner} win!");
+                    this.Close();
+                }
+            }
         } 
         private void button8_Click(object sender, EventArgs e)
         {
@@ -994,6 +1246,48 @@ namespace XOX_Game
                 }
             }
             if (button3.Text == "O" && button5.Text == "O" && button7.Text == "O")
+            {
+                end = true;
+                winner = "O";
+                if (end == true)
+                {
+                    MessageBox.Show($"{winner} win!");
+                    this.Close();
+                }
+            }
+            //////////////////////////////////////////////////////////////////////////////////////////
+            if (button2.Text == "X" && button5.Text == "X" && button8.Text == "X")
+            {
+                end = true;
+                winner = "X";
+                if (end == true)
+                {
+                    MessageBox.Show($"{winner} win!");
+                    this.Close();
+                }
+            }
+            if (button2.Text == "O" && button5.Text == "O" && button8.Text == "O")
+            {
+                end = true;
+                winner = "O";
+                if (end == true)
+                {
+                    MessageBox.Show($"{winner} win!");
+                    this.Close();
+                }
+            }
+            ///////////////////////////////////////////////////////////////////////////////////////////
+            if (button3.Text == "X" && button6.Text == "X" && button9.Text == "X")
+            {
+                end = true;
+                winner = "X";
+                if (end == true)
+                {
+                    MessageBox.Show($"{winner} win!");
+                    this.Close();
+                }
+            }
+            if (button3.Text == "O" && button6.Text == "O" && button9.Text == "O")
             {
                 end = true;
                 winner = "O";
@@ -1144,6 +1438,48 @@ namespace XOX_Game
                     this.Close();
                 }
             }
+            //////////////////////////////////////////////////////////////////////////////////////////
+            if (button2.Text == "X" && button5.Text == "X" && button8.Text == "X")
+            {
+                end = true;
+                winner = "X";
+                if (end == true)
+                {
+                    MessageBox.Show($"{winner} win!");
+                    this.Close();
+                }
+            }
+            if (button2.Text == "O" && button5.Text == "O" && button8.Text == "O")
+            {
+                end = true;
+                winner = "O";
+                if (end == true)
+                {
+                    MessageBox.Show($"{winner} win!");
+                    this.Close();
+                }
+            }
+            ///////////////////////////////////////////////////////////////////////////////////////////
+            if (button3.Text == "X" && button6.Text == "X" && button9.Text == "X")
+            {
+                end = true;
+                winner = "X";
+                if (end == true)
+                {
+                    MessageBox.Show($"{winner} win!");
+                    this.Close();
+                }
+            }
+            if (button3.Text == "O" && button6.Text == "O" && button9.Text == "O")
+            {
+                end = true;
+                winner = "O";
+                if (end == true)
+                {
+                    MessageBox.Show($"{winner} win!");
+                    this.Close();
+                }
+            }
         }
 
         private void button7_Click(object sender, EventArgs e)
@@ -1276,6 +1612,48 @@ namespace XOX_Game
                 }
             }
             if (button3.Text == "O" && button5.Text == "O" && button7.Text == "O")
+            {
+                end = true;
+                winner = "O";
+                if (end == true)
+                {
+                    MessageBox.Show($"{winner} win!");
+                    this.Close();
+                }
+            }
+            //////////////////////////////////////////////////////////////////////////////////////////
+            if (button2.Text == "X" && button5.Text == "X" && button8.Text == "X")
+            {
+                end = true;
+                winner = "X";
+                if (end == true)
+                {
+                    MessageBox.Show($"{winner} win!");
+                    this.Close();
+                }
+            }
+            if (button2.Text == "O" && button5.Text == "O" && button8.Text == "O")
+            {
+                end = true;
+                winner = "O";
+                if (end == true)
+                {
+                    MessageBox.Show($"{winner} win!");
+                    this.Close();
+                }
+            }
+            ///////////////////////////////////////////////////////////////////////////////////////////
+            if (button3.Text == "X" && button6.Text == "X" && button9.Text == "X")
+            {
+                end = true;
+                winner = "X";
+                if (end == true)
+                {
+                    MessageBox.Show($"{winner} win!");
+                    this.Close();
+                }
+            }
+            if (button3.Text == "O" && button6.Text == "O" && button9.Text == "O")
             {
                 end = true;
                 winner = "O";
